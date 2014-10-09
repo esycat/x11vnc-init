@@ -1,0 +1,7 @@
+#
+# Configuration for X11 VNC Server.
+#
+
+DISPLAY=:99
+RESOLUTION=1024x768
+ARGS="-forever -shared -no6"
