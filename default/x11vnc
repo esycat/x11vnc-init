@@ -3,5 +3,5 @@
 #
 
 DISPLAY=:0
-RESOLUTION=1024x768
+RESOLUTION=1280x1024
 ARGS="-forever -shared -no6"
